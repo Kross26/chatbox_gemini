@@ -151,14 +151,12 @@ class Messages extends StatelessWidget {
         children: [
           Text(
             message,
-            style: TextStyle(
-                color: isUser ? Colors.white : Colors.black,
-                fontFamily: 'Hind'),
-          ),
-          Text(
-            date,
             style: TextStyle(color: isUser ? Colors.white : Colors.black),
           ),
+          Text(date,
+              style: TextStyle(
+                color: isUser ? Colors.white : Colors.black,
+              )),
         ],
       ),
     );
