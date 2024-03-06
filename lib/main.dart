@@ -133,9 +133,9 @@ class Messages extends StatelessWidget {
               ? const Color.fromARGB(255, 9, 48, 79)
               : Colors.grey.shade300,
           borderRadius: BorderRadius.only(
-            topLeft: const Radius.circular(10),
+            topLeft: const Radius.circular(15),
             bottomLeft: isUser ? const Radius.circular(10) : Radius.zero,
-            topRight: const Radius.circular(10),
+            topRight: const Radius.circular(15),
             bottomRight: isUser ? Radius.zero : const Radius.circular(10),
           )),
       child: Column(
