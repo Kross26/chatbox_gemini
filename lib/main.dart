@@ -17,7 +17,7 @@ class _ChatScreenState extends State<ChatScreen> {
   final TextEditingController _userMessage = TextEditingController();
 
 // api key gemini ai
-  static const apiKey = "AIzaSyDfDmdzDkXtvS7KDupe17zIoD760qjV4F8";
+  static const apiKey = "your api key";
 
   final model = GenerativeModel(model: 'gemini-pro', apiKey: apiKey);
 
