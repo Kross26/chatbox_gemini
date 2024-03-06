@@ -48,7 +48,15 @@ class _ChatScreenState extends State<ChatScreen> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Gemini chatbox'),
+          title: const Text(
+            'Gemini chatbox',
+            style: TextStyle(
+              fontFamily: 'Roboto',
+              fontSize: 21,
+              fontWeight: FontWeight.w400,
+              color: Colors.black,
+            ),
+          ),
         ),
         body: Column(
           mainAxisAlignment: MainAxisAlignment.end,
