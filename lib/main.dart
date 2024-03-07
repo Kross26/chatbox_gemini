@@ -49,7 +49,7 @@ class _ChatScreenState extends State<ChatScreen> {
       home: Scaffold(
         appBar: AppBar(
           title: const Text(
-            'Gemini chatbox',
+            'Gemini chatbot',
             style: TextStyle(
               fontFamily: 'Roboto',
               fontSize: 21,
