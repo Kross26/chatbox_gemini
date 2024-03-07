@@ -1,0 +1,12 @@
+com.example.chatbox_gemini.app-jetified-annotation-experimental-1.1.0-0 C:\Users\Diego\.gradle\caches\transforms-3\02315cc9f75263553d2042718fc375ee\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.chatbox_gemini.app-jetified-window-1.0.0-beta04-1 C:\Users\Diego\.gradle\caches\transforms-3\076eb9235982ee06112d76594ea8585f\transformed\jetified-window-1.0.0-beta04\res
+com.example.chatbox_gemini.app-jetified-window-java-1.0.0-beta04-2 C:\Users\Diego\.gradle\caches\transforms-3\99750bb863b6fe460a7b5da8686e778d\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.chatbox_gemini.app-core-1.6.0-3 C:\Users\Diego\.gradle\caches\transforms-3\d08c73bfb05384f2e52578171dbd141e\transformed\core-1.6.0\res
+com.example.chatbox_gemini.app-debug-4 C:\Users\Diego\Desktop\Flutter proyects\chatbox-gemini\chatbox_gemini\android\app\src\debug\res
+com.example.chatbox_gemini.app-main-5 C:\Users\Diego\Desktop\Flutter proyects\chatbox-gemini\chatbox_gemini\android\app\src\main\res
+com.example.chatbox_gemini.app-pngs-6 C:\Users\Diego\Desktop\Flutter proyects\chatbox-gemini\chatbox_gemini\build\app\generated\res\pngs\debug
+com.example.chatbox_gemini.app-resValues-7 C:\Users\Diego\Desktop\Flutter proyects\chatbox-gemini\chatbox_gemini\build\app\generated\res\resValues\debug
+com.example.chatbox_gemini.app-rs-8 C:\Users\Diego\Desktop\Flutter proyects\chatbox-gemini\chatbox_gemini\build\app\generated\res\rs\debug
+com.example.chatbox_gemini.app-mergeDebugResources-9 C:\Users\Diego\Desktop\Flutter proyects\chatbox-gemini\chatbox_gemini\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.chatbox_gemini.app-mergeDebugResources-10 C:\Users\Diego\Desktop\Flutter proyects\chatbox-gemini\chatbox_gemini\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.chatbox_gemini.app-merged_res-11 C:\Users\Diego\Desktop\Flutter proyects\chatbox-gemini\chatbox_gemini\build\app\intermediates\merged_res\debug
